@@ -1,2 +1,2 @@
 # Kodluyoruz-lk-dev
-Patika üzerinden aldığım eğitimin ilk ödevi.
+Patika üzerinden aldğım dersin ilk proje ödevi bu ödevde kısaca html ile kısaca kendimden bahsettim.
